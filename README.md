@@ -1,5 +1,5 @@
 # snowtimber
- Config files for my github profile
+ Explore, learn, build.
 
  - 👋 Hi, I’m @snowtimber
  - 👀 I’m interested in data, city development, economics, and cloud solutions!
