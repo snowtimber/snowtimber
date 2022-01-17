@@ -2,7 +2,7 @@
  Explore, learn, build.
 
  - 👋 Hi, I’m @snowtimber
- - 👀 I’m interested in data, city development, economics, and cloud solutions!
+ - 👀 I’m interested in cloud solutions, data, city development, and economics!
  - 🌱 I’m currently learning AWS.
  - 💞️ I’m looking to collaborate on city development data, cloud solutions, economics, and making our cities better!
  - 📫 How to reach me ...
