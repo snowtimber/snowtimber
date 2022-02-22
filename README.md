@@ -3,7 +3,7 @@
 
  - 👋 Hi, I’m @snowtimber
  - 👀 I’m interested in cloud solutions, data, city development, and economics!
- - 🌱 I’m currently learning AWS.
+ - 🌱 I’m always learning something new and am currently growning my AWS, DevOps, and leetcode knowledge.
  - 💞️ I’m looking to collaborate on city development data, cloud solutions, economics, and making our cities better!
  - 📫 How to reach me ...
 
